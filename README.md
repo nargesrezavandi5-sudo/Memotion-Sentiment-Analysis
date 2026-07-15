@@ -1,5 +1,3 @@
-# Memotion-Sentiment-Analysis
-This project focuses on analyzing and classifying the sentiment of memes. The goal is to build a hybrid model that combines corrected meme text with specific content features (humour, sarcasm, offensiveness, and motivation) to predict the 'Overall Sentiment' of the meme.
 # Memotion Sentiment Analysis
 
 This project implements a **Multi-Modal Deep Learning Architecture** to classify meme sentiments. The model processes three distinct data inputs—**Images, Text, and Tabular Metadata**—simultaneously to predict the 'Overall Sentiment' of memes.
